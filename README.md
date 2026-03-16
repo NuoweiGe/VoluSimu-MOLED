@@ -19,3 +19,5 @@ Ultrafast Infant Brain Quantitative MRI Using Overlapping-Echo Acquisition with 
 **GPU**: NVIDIA GeForce RTX 4090
 
 ## VoluSimu-MOLED for Infant qMRI (T2, T2*, and T2′)
+![VoluSimu-MOLED](./figs/Figure6.png)
+T2 and T2* maps of representative infants at different PMA (326, 408, 577 days, and 25 years respectively)
