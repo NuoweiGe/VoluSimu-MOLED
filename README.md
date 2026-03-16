@@ -3,7 +3,7 @@
 ## Related Paper
 Ultrafast Infant Brain Quantitative MRI Using Overlapping-Echo Acquisition with Volumetric Physical Simulation of Slice-level Non-Idealities.
 
-**IEEE TBME**:under review
+**IEEE Transactions on Biomedical Engineering**: under major revision
 
 ## Method pipeline
 ![VoluSimu-MOLED](./figs/Figure2.png)
