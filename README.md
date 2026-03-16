@@ -22,5 +22,9 @@ Ultrafast Infant Brain Quantitative MRI Using Overlapping-Echo Acquisition with 
 ![VoluSimu-MOLED](./figs/Figure6.png)
 T2 and T2* maps of representative infants at different PMA (326, 408, 577 days, and 25 years respectively)
 
+***Compared with MOST-DL and other existing studies, the proposed VoluSimu incorporates volumetric simulations of slice-level non-idealities for the first time.***
+![VoluSimu-MOLED](./figs/Figure4.png)
+VoluSimu-MOLED effectively corrects for the effects of non-ideal imaging factors and enables robust T2' mapping for infant brain.
+
 ## Code Directory Overview
 
