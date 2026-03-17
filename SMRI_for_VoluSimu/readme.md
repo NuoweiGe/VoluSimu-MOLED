@@ -58,7 +58,7 @@ nohup ./simu_bin >../my.log 2>&1 &
     "DstRoot": "/data/qinqin/code_SMRI/VVtry/simu_out/output/",
 
     // Number of Generated Samples
-    "FileNum": 5280,
+    "FileNum": 1,
 
     // Number of Simulated Spins
     "SpinNum": 1,
