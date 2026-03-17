@@ -1,0 +1,113 @@
+ {
+    "EpiMiddleStamp1": 0.08895,
+    "EpiMiddleStamp2": 0.15575,
+    "EpiMiddleStamp3": 0.22255,
+    "RFInterval": 20e-6,
+    "ShiftUseBlipT": false,
+    "RF1": {
+        "MiddleStamp": 0,
+        "RfFlipAngle": 30,
+        "RfDt": 0.002205,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG1": {
+        "MiddleStamp": 0.00727,
+        "Duration": 0.001,
+        "XGradient": -22,
+        "YGradient": -31,
+        "ZGradient": 0
+    },
+    "RF2": {
+        "MiddleStamp": 0.01454,
+        "RfFlipAngle": 30,
+        "RfDt": 0.002205,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG2": {
+        "MiddleStamp": 0.022005,
+        "Duration": 0.001,
+        "XGradient": 11,
+        "YGradient": -32,
+        "ZGradient": 0
+    },
+    "RF3": {
+        "MiddleStamp": 0.02947,
+        "RfFlipAngle": 30,
+        "RfDt": 0.002205,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG3": {
+        "MiddleStamp": 0.03697,
+        "Duration": 0.001,
+        "XGradient": -22,
+        "YGradient": -32,
+        "ZGradient": 0
+    },
+    "RF4": {
+        "MiddleStamp": 0.04447,
+        "RfFlipAngle": 30,
+        "RfDt": 0.002205,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG4": {
+        "MiddleStamp": 0.04997,
+        "Duration": 0.001,
+        "XGradient": -48,
+        "YGradient": -16,
+        "ZGradient": 0
+    },
+    "RefocuseRF1": {
+        "MiddleStamp": 0.05547,
+        "RfFlipAngle": 180,
+        "RfDt": 0.00155,
+        "RfPhase": -1.5707963267948966,
+        "RfFreq": 1.5707963267948966
+    },
+    "RefocuseRF2": {
+        "MiddleStamp": 0.12227,
+        "RfFlipAngle": 180,
+        "RfDt": 0.00155,
+        "RfPhase": -1.5707963267948966,
+        "RfFreq": 1.5707963267948966
+    },
+    "RefocuseRF3": {
+        "MiddleStamp": 0.18907,
+        "RfFlipAngle": 180,
+        "RfDt": 0.00155,
+        "RfPhase": -1.5707963267948966,
+        "RfFreq": 1.5707963267948966
+    },
+    "Crusher1": {
+        "StartStamp": 0.0021,
+        "EndStamp": 0.0026,
+        "XGradient": -2.3,
+        "YGradient": -2.3,
+        "ZGradient": 0
+    },
+    "Crusher2": {
+        "StartStamp": 0.0021,
+        "EndStamp": 0.0026,
+        "XGradient": -0.9,
+        "YGradient": -0.9,
+        "ZGradient": 0
+    },
+    "Crusher3": {
+        "StartStamp": 0.0021,
+        "EndStamp": 0.0026,
+        "XGradient": -1.1,
+        "YGradient": -1.1,
+        "ZGradient": 0
+    },
+
+    "ShiftGraFlag":true,
+    "XMinShiftGra":-0.05,
+    "XMaxShiftGra":0.05,
+    "YMinShiftGra":-0.05,
+    "YMaxShiftGra":0.05,
+    "ZMinShiftGra":0,
+    "ZMaxShiftGra":0
+}

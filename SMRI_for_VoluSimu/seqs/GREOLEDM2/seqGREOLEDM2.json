@@ -1,0 +1,69 @@
+{
+    "EpiMiddleStamp": 0.05331,
+    "GAPdt":0.00122,
+    "RFInterval": 20e-6,
+    "ShiftUseBlipT": true,
+    "RF1": {
+        "MiddleStamp": 0,
+        "RfFlipAngle": 30,
+        "RfDt": 0.0005,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG1": {
+        "MiddleStamp": 0.0025,
+        "Duration": 0.001,
+        "XGradient": -22,
+        "YGradient": 31,
+        "ZGradient": 0
+    },
+    "RF2": {
+        "MiddleStamp": 0.00913,
+        "RfFlipAngle": 30,
+        "RfDt": 0.0005,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG2": {
+        "MiddleStamp": 0.0107,
+        "Duration": 0.001,
+        "XGradient": 11,
+        "YGradient": 32,
+        "ZGradient": 0
+    },
+    "RF3": {
+        "MiddleStamp": 0.01489,
+        "RfFlipAngle": 30,
+        "RfDt": 0.0005,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG3": {
+        "MiddleStamp": 0.01638,
+        "Duration": 0.001,
+        "XGradient": -22,
+        "YGradient": 32,
+        "ZGradient": 0
+    },
+    "RF4": {
+        "MiddleStamp": 0.02062,
+        "RfFlipAngle": 30,
+        "RfDt": 0.0005,
+        "RfPhase": 0,
+        "RfFreq": 1.5707963267948966
+    },
+    "ShiftG4": {
+        "MiddleStamp": 0.02192,
+        "Duration": 0.001,
+        "XGradient": -48,
+        "YGradient": 16,
+        "ZGradient": 0
+    },
+    "ShiftGraFlag":false,
+    "XMinShiftGra":-0.05,
+    "XMaxShiftGra":0.05,
+    "YMinShiftGra":-0.05,
+    "YMaxShiftGra":0.05,
+    "ZMinShiftGra":0,
+    "ZMaxShiftGra":0
+}
