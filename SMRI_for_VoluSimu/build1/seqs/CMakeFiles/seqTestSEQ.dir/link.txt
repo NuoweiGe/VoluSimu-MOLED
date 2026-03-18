@@ -1,0 +1,1 @@
+/home/qinqin/Env/gcc12/bin/g++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libseqTestSEQ.so -o libseqTestSEQ.so CMakeFiles/seqTestSEQ.dir/TestSEQ/seqTestSEQ.cpp.o   -L/home/qinqin/Env/MATLAB/bin/glnxa64  -Wl,-rpath,/home/qinqin/Env/MATLAB/bin/glnxa64:/data/qinqin/code_SMRI/SMRI_V2_2_3DV/build ../libbaseSeq.so ../libparse.so -Wl,-rpath-link,/data/qinqin/code_SMRI/SMRI_V2_2_3DV/build 

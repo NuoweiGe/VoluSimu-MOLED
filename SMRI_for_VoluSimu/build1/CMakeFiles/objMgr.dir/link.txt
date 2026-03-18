@@ -1,0 +1,1 @@
+/home/qinqin/Env/gcc12/bin/g++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libobjMgr.so -o libobjMgr.so CMakeFiles/objMgr.dir/src/ObjMgr.cpp.o   -L/home/qinqin/Env/MATLAB/bin/glnxa64  -Wl,-rpath,/home/qinqin/Env/MATLAB/bin/glnxa64 -lmat 
